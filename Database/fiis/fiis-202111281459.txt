@@ -1,0 +1,324 @@
+ticker	name	fundType	manager	lastDividendYield	lastEarning	equity	equityPerShare	registrationDate	managementType	shareQuantity	standardDeviation	mean	median	sampleSize
+ABCP11	Grand Plaza Shopping	Tijolo: Shoppings	Rio Bravo Investimentos	0,0075	R$0,46	R$1,08 B	R$88,73	15/05/1996	Renda Gestão Passiva	12.203.833	0,00187	0,00571	0,00571	10
+AFCR11	AF Invest FII Recebíveis Imobiliários	Papel: CRIs	CM Capital Markets	0,0126	R$1,30	R$154,89 M	R$102,29	05/09/2019	Híbrido Gestão Ativa	1.514.227	0,00167	0,01036	0,01036	10
+AFHI11	AF Invest CRI	Papel: CRIs	BTG Pactual	0,0124	R$1,20	R$174,74 M	R$97,75	20/10/2020	Títulos e Valores Mobiliários Gestão Ativa	1.787.671	0,00230	0,00921	0,00921	7
+AFOF11	Alianza FOF	Papel: Fundo de Fundos	BRL Trust DTVM	0,0105	R$0,84	R$68,63 M	R$99,29	22/01/2020	Títulos e Valores Mobiliários Gestão Ativa	691.192	0,00996	0,01358	0,01358	5
+AIEC11	Autonomy Edifícios Corporativos	Tijolo: Escritórios	Modal DTVM	0,0086	R$0,61	R$485,67 M	R$100,66	24/08/2020	Renda Gestão Ativa	4.824.987	0,00070	0,00683	0,00683	10
+ALMI11	Torre Almirante	Tijolo: Escritórios	BTG Pactual	0,0004	R$0,37	R$228,90 M	R$2.058,91	03/01/2006	Renda Gestão Passiva	111.177	0,01132	0,01516	0,01516	10
+ALZR11	Alianza Trust Renda Imobiliária	Tijolo: Híbrido	BTG Pactual	0,0062	R$0,64	R$643,01 M	R$108,58	20/10/2017	Renda Gestão Ativa	5.922.011	0,00070	0,00526	0,00526	10
+ANCR11B	Ancar IC	Tijolo: Shoppings	Genial Investimentos Corretora de Valores	0,015600000000000001	R$52,60	R$1,52 B	R$3.359,75	11/04/2011	Desenvolvimento para Renda Gestão Ativa	451.113	-1.0	-1.0	0	0
+ARCT11	Riza Arctium Real Estate	Tijolo: Galpões	BTG Pactual	0,0144	R$1,44	R$164,85 M	R$103,19	31/07/2017	Híbrido Gestão Ativa	1.597.568	0,00438	0,00983	0,00983	10
+ARRI11	Átrio Reit Recebíveis Imobiliários	Papel: CRIs	Oliveira Trust	0,0151	R$1,41	R$99,04 M	R$94,47	01/07/2019	Títulos e Valores Mobiliários Gestão Ativa	1.048.320	0,00267	0,01150	0,01150	10
+ATCR11	HAZ	Tijolo: Escritórios	RJI CTVM LTDA	0,0	R$0,22	R$72,55 M	R$78,10	12/11/2004	Títulos e Valores Mobiliários Gestão Ativa	928.908	-1.0	-1.0	0	0
+ATSA11	Hedge Atrium Shopping Santo André	Tijolo: Shoppings	Hedge Investments DTVM LTDA	0,0025	R$0,25	R$172,43 M	R$98,47	13/12/2010	Desenvolvimento para Renda Gestão Passiva	1.751.141	0,00134	0,00269	0,00269	7
+BARI11	Barigui Rendimento Imobiliários I	Papel: CRIs	Oliveira Trust	0,0115	R$1,15	R$472,35 M	R$101,93	05/07/2018	Títulos e Valores Mobiliários Gestão Ativa	4.634.191	0,00250	0,01139	0,01139	10
+BBFI11B	BB Progressivo	Tijolo: Escritórios	BTG Pactual	0,0132	R$26,29	R$329,83 M	R$2.537,14	26/07/2004	Renda Gestão Passiva	130.000	0,00155	0,01132	0,01132	10
+BBFO11	BB Fundo de Fundos	Papel: Fundo de Fundos	BB Gestão de Recursos	0,0089	R$0,62	R$344,50 M	R$86,04	26/10/2020	Títulos e Valores Mobiliários Gestão Passiva	4.003.900	0,00150	0,00633	0,00633	10
+BBIM11	BB Recebiveis Imobiliários	Papel: CRIs	BB Gestão de Recursos	0,0	R$0,90	R$49,75 M	R$48,07	12/09/2014	Títulos e Valores Mobiliários Gestão Ativa	1.035.000	-1.0	-1.0	0	0
+BBPO11	BB Progressivo II	Tijolo: Bancário	Votorantim Asset Management	0,01	R$0,87	R$1,53 B	R$95,98	30/09/2011	Renda Gestão Passiva	15.919.690	0,00074	0,00909	0,00909	10
+BBRC11	BB Renda Corporativa	Tijolo: Bancário	Votorantim Asset Management	0,0105	R$0,92	R$180,68 M	R$113,63	29/12/2010	Desenvolvimento para Renda Gestão Passiva	1.590.000	0,00044	0,00783	0,00783	10
+BCFF11	BTG Pactual Fundo de Fundos	Papel: Fundo de Fundos	BTG Pactual	0,008100000000000001	R$0,50	R$1,98 B	R$78,57	27/08/2009	Títulos e Valores Mobiliários Gestão Ativa	25.186.378	0,00057	0,00634	0,00634	10
+BCIA11	Bradesco Carteira Imobiliária Ativa	Papel: Fundo de Fundos	Banco Bradesco	0,008	R$0,64	R$380,71 M	R$102,37	03/11/2014	Títulos e Valores Mobiliários Gestão Ativa	3.719.038	0,00062	0,00663	0,00663	10
+BCRI11	Banestes Recebíveis Imobiliários	Papel: CRIs	BRL Trust DTVM	0,0109	R$1,13	R$662,68 M	R$105,89	28/04/2015	Títulos e Valores Mobiliários Gestão Ativa	6.257.873	0,00177	0,01045	0,01045	10
+BICE11	Brio Crédito Estruturado	Papel: CRIs	BRL Trust DTVM	0,0	R$0,00	R$10,52 M	R$948,56	16/10/2020	Títulos e Valores Mobiliários Gestão Ativa	11.091	-1.0	-1.0	0	0
+BICR11	Inter Títulos Imobiliários	Papel: CRIs	Inter DTVM	0,005600000000000001	R$0,53	R$49,26 M	R$98,52	05/07/2019	Renda Gestão Ativa	500.000	0,00118	0,00367	0,00367	10
+BIME11	Brio Multiestrategia	Indefinido	BRL Trust DTVM	0,0	R$0,00	R$58,46 M	R$10,00	18/06/2021	Renda Gestão Ativa	5.845.602	-1.0	-1.0	0	0
+BLCP11	Bluecap Renda Logística	Tijolo: Galpões	BTG Pactual	0,0006	R$0,04	R$225,88 M	R$98,37	27/01/2020	Renda Gestão Ativa	2.296.282	0,00068	0,00585	0,00585	6
+BLMC11	Bluemacaw Crédito Imobiliário	Papel: CRIs	BTG Pactual	0,010700000000000001	R$1,05	R$39,96 M	R$100,02	22/01/2021	Títulos e Valores Mobiliários Gestão Ativa	399.500	0,00078	0,01000	0,01000	3
+BLMG11	Bluemacaw Logística	Tijolo: Galpões	Vórtx DTVM LTDA	0,0102	R$0,90	R$378,55 M	R$99,34	13/11/2019	Renda Gestão Ativa	3.810.588	0,00136	0,00860	0,00860	9
+BLMO11	Bluemacaw Office Fund II	Tijolo: Escritórios	BRL Trust DTVM	0,0	R$0,00	R$98,80 M	R$26.020,67	04/12/2019	Híbrido Gestão Ativa	3.797	-1.0	-1.0	0	0
+BLMR11	Bluemacaw Renda+ FOF	Papel: Fundo de Fundos	BRL Trust DTVM	0,009399999999999999	R$0,07	R$219,09 M	R$8,58	04/08/2020	Títulos e Valores Mobiliários Gestão Ativa	25.541.630	0,00117	0,00759	0,00759	9
+BMII11	Brasilio Machado	Tijolo: Escritórios	Rio Bravo Investimentos	0,0	R$0,23	R$69,94 M	R$499,56	18/08/1997	Desenvolvimento para Renda Gestão Ativa	140.000	-1.0	-1.0	0	0
+BMLC11	BM Brascan Lajes Corporativas	Tijolo: Escritórios	BTG Pactual	0,0068000000000000005	R$0,60	R$106,57 M	R$106,74	21/09/2011	Títulos e Valores Mobiliários Gestão Ativa	998.405	0,00060	0,00615	0,00615	10
+BNFS11	Banrisul Novas Fronteiras	Tijolo: Bancário	Oliveira Trust	0,010700000000000001	R$1,26	R$72,82 M	R$104,03	09/05/2012	Desenvolvimento para Renda Gestão Ativa	700.000	0,00072	0,00871	0,00871	10
+BPFF11	Brasil Plural Absoluto Fundo de Fundos	Papel: Fundo de Fundos	Genial Investimentos Corretora de Valores	0,009399999999999999	R$0,57	R$347,40 M	R$77,33	11/12/2012	Renda Gestão Ativa	4.492.326	0,00055	0,00753	0,00753	10
+BPML11	BTG Pactual Shoppings	Tijolo: Shoppings	BTG Pactual	0,0038	R$0,30	R$571,76 M	R$132,81	22/07/2019	Renda Gestão Passiva	4.305.079	0,00117	0,00441	0,00441	10
+BPRP11	FII BRLPROP	Tijolo: Galpões	BTG Pactual	0,008100000000000001	R$0,78	R$145,80 M	R$108,01	07/03/2018	Renda Gestão Passiva	1.349.837	0,00050	0,00697	0,00697	9
+BRCO11	Bresco Logística	Tijolo: Galpões	Oliveira Trust	0,0068000000000000005	R$0,57	R$1,60 B	R$108,57	13/07/2016	Híbrido Gestão Ativa	14.778.781	0,00043	0,00524	0,00524	10
+BRCR11	BTG Pactual Corporate Office	Tijolo: Escritórios	BTG Pactual	0,0073	R$0,46	R$2,85 B	R$107,12	21/05/2007	Híbrido Gestão Ativa	26.638.202	0,00055	0,00584	0,00584	10
+BREV11	Brazil Real Estate Victory Fund I	Tijolo: Escritórios	BR-CAPITAL	0,0051	R$0,49	R$101,67 M	R$105,12	22/09/2016	Renda Gestão Ativa	967.201	0,00095	0,00447	0,00447	3
+BRHT11B	BR Hotéis	Tijolo: Hotéis	BNY Mellon	0,0	R$0,86	R$150,90 M	R$81,94	18/12/2012	Não Informado	1.841.677	-1.0	-1.0	0	0
+BRIM11	Brio Real Estate II	Tijolo: Desenvolvimento	BRL Trust DTVM	0,0	R$0,00	R$120,88 M	R$973,77	23/12/2015	Híbrido Gestão Ativa	124.137	-1.0	-1.0	0	0
+BRIP11	Brio Real Estate III	Tijolo: Desenvolvimento	BRL Trust DTVM	0,0	R$0,00	R$116,64 M	R$984,51	08/07/2020	Híbrido Gestão Ativa	118.474	-1.0	-1.0	0	0
+BRLA11	BRL Prop II	Tijolo: Galpões	BTG Pactual	0,0070999999999999995	R$0,96	R$240,06 M	R$161,33	24/07/2020	Renda Gestão Passiva	1.488.031	0,00000	0,00640	0,00640	1
+BTAL11	BTG Pactual Agro Logística	Tijolo: Outros	BTG Pactual	0,0091	R$0,80	R$614,16 M	R$102,66	22/01/2021	Renda Gestão Ativa	5.982.736	0,00232	0,00603	0,00603	9
+BTCR11	BTG Pactual Crédito Imobiliário	Papel: CRIs	BTG Pactual	0,009000000000000001	R$0,80	R$471,12 M	R$97,94	01/03/2018	Títulos e Valores Mobiliários Gestão Ativa	4.810.097	0,00069	0,00749	0,00749	10
+BTLG11	BTG Pactual Logística	Tijolo: Galpões	BTG Pactual	0,0073	R$0,72	R$1,53 B	R$100,28	16/04/2010	Renda Gestão Ativa	15.228.960	0,00062	0,00617	0,00617	10
+BTRA11	BTG Pactual Terras Agrícolas	Indefinido	BTG Pactual	0,009000000000000001	R$0,78	R$336,04 M	R$99,88	14/04/2021	Renda Gestão Ativa	3.364.559	0,00250	0,00602	0,00602	4
+BTSG11	BTSP I	Tijolo: Desenvolvimento	Inter DTVM	0,0	R$0,00	R$75,49 M	R$97,40	17/02/2020	Desenvolvimento para Renda Gestão Ativa	775.015	-1.0	-1.0	0	0
+BTWR11	Btowers	Tijolo: Escritórios	BRL Trust DTVM	0,0025	R$0,27	R$87,69 M	R$108,36	28/07/2014	Renda Gestão Passiva	809.270	-1.0	-1.0	0	0
+BVAR11	Brasil Varejo	Tijolo: Varejo	Rio Bravo Investimentos	0,12390000000000001	R$12,39	R$615,24 M	R$983,53	27/10/2014	Renda Gestão Passiva	625.540	-1.0	-1.0	0	0
+BZLI11	Brazil Realty	Híbrido (Tijolo/Papel)	Índigo Investimentos DTVM	0,0	R$0,00	R$430,92 M	R$10,95	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	39.343.807	-1.0	-1.0	0	0
+CARE11	Brazilian Graveyard and Death Care	Tijolo: Outros	Planner Trustee DTVM LTDA	0,0044	R$0,00	R$285,29 M	R$1,60	12/12/2011	Títulos e Valores Mobiliários Gestão Ativa	178.866.845	0,00205	0,00324	0,00324	9
+CBOP11	Castello Branco Office Park	Tijolo: Escritórios	Credit Suisse Hedging-Griffo	0,008100000000000001	R$0,49	R$131,82 M	R$93,16	17/12/2012	Renda Gestão Passiva	1.415.000	0,00043	0,00688	0,00688	10
+CEOC11	Cyrela Commercial Properties	Tijolo: Escritórios	BTG Pactual	0,0086	R$0,46	R$156,47 M	R$86,18	04/10/2012	Renda Gestão Passiva	1.815.696	0,00054	0,00687	0,00687	10
+CFHI11	CF2	Tijolo: Desenvolvimento	Vórtx DTVM LTDA	0,0	R$36,51	R$80,50 M	R$1.063,74	23/09/2019	Híbrido Gestão Ativa	75.680	-1.0	-1.0	0	0
+CJCT11	Cidade Jardim Continental Tower	Tijolo: Escritórios	Hedge Investments DTVM LTDA	0,0048	R$0,33	R$176,33 M	R$65,07	15/12/2010	Renda Gestão Passiva	2.710.000	0,00242	0,00188	0,00188	9
+CNES11	CENESP	Tijolo: Escritórios	BTG Pactual	0,0026	R$0,10	R$257,17 M	R$87,20	06/04/2011	Renda Gestão Passiva	2.949.248	0,00085	0,00252	0,00252	10
+CORM11	Core Metropolis	Tijolo: Híbrido	BTG Pactual	0,011000000000000001	R$1,10	R$86,47 M	R$94,27	08/12/2020	Híbrido Gestão Ativa	917.304	0,00033	0,01023	0,01023	6
+CPFF11	Capitania Reit FoF	Papel: Fundo de Fundos	BTG Pactual	0,0077	R$0,52	R$421,94 M	R$77,42	03/12/2019	Títulos e Valores Mobiliários Gestão Ativa	5.449.778	0,00083	0,00920	0,00920	10
+CPTS11	Capitania Securities II	Papel: CRIs	BTG Pactual	0,010700000000000001	R$1,01	R$2,42 B	R$93,69	13/08/2014	Títulos e Valores Mobiliários Gestão Ativa	25.781.435	0,00022	0,01012	0,01012	10
+CRFF11	Caixa Rio Bravo II	Papel: Fundo de Fundos	Caixa Econômica Federal	0,0060999999999999995	R$0,40	R$59,34 M	R$85,99	05/11/2018	Títulos e Valores Mobiliários Gestão Ativa	690.040	0,00039	0,00581	0,00581	10
+CTXT11	Centro Têxtil Internacional	Tijolo: Outros	Rio Bravo Investimentos	0,0005	R$0,01	R$122,56 M	R$47,24	01/08/1995	Desenvolvimento para Renda Gestão Passiva	2.594.279	0,00233	0,00322	0,00322	10
+CVBI11	VBI CRI	Papel: CRIs	BRL Trust DTVM	0,011699999999999999	R$1,12	R$992,56 M	R$100,09	11/10/2017	Títulos e Valores Mobiliários Gestão Ativa	9.916.926	0,00131	0,01002	0,01002	10
+CXCE11B	Caixa Cedae	Tijolo: Escritórios	Caixa Econômica Federal	0,0084	R$0,33	R$139,24 M	R$81,29	11/08/2009	Renda Gestão Passiva	1.712.950	0,00313	0,01100	0,01100	10
+CXCO11	Caixa Imóveis Corporativos	Tijolo: Escritórios	Vórtx DTVM LTDA	0,0092	R$0,65	R$394,14 M	R$100,43	10/12/2020	Renda Gestão Ativa	3.924.500	0,00053	0,00673	0,00673	7
+CXRI11	Caixa Rio Bravo	Papel: Fundo de Fundos	Caixa Econômica Federal	0,0066	R$0,45	R$137,15 M	R$87,04	24/12/2012	Títulos e Valores Mobiliários Gestão Ativa	1.575.760	0,00059	0,00582	0,00582	10
+CXTL11	Caixa SEQ Logística Renda	Tijolo: Galpões	Caixa Econômica Federal	0,0026	R$0,78	R$33,90 M	R$632,44	04/11/2010	Renda Gestão Passiva	53.597	0,00508	0,00490	0,00490	8
+CYCR11	Cyrela Crédito	Papel: CRIs	Banco Genial	0,011000000000000001	R$1,10	R$49,71 M	R$93,79	07/04/2021	Títulos e Valores Mobiliários Gestão Ativa	530.000	-1.0	-1.0	0	0
+DAMT11B	Diamante	Tijolo: Shoppings	BTG Pactual	0,0	R$0,00	R$108,36 M	R$0,89	--/--/--	Renda Gestão Passiva	122.141.226	-1.0	-1.0	0	0
+DEVA11	Devant Recebíveis Imobiliários	Papel: CRIs	Vórtx DTVM LTDA	0,0143	R$1,40	R$1,05 B	R$95,80	02/07/2020	Títulos e Valores Mobiliários Gestão Ativa	10.947.069	0,00136	0,01229	0,01229	10
+DMAC11	MAC FII	Tijolo: Desenvolvimento	Oliveira Trust	0,22769999999999999	R$2,96	R$1,37 M	R$8,75	27/07/2018	Desenvolvimento para Venda Gestão Passiva	156.108	0,12197	0,06704	0,06704	10
+DOVL11B	DOVEL	Tijolo: Escritórios	BNY Mellon	0,0003	R$0,30	R$71,29 M	R$1.144,69	28/11/2008	Títulos e Valores Mobiliários Gestão Ativa	62.278	-1.0	-1.0	0	0
+DRIT11B	Multigestão Renda Comercial	Tijolo: Escritórios	Banco Daycoval S.A.	0,0054	R$0,49	R$60,85 M	R$131,34	09/12/2008	Desenvolvimento para Renda Gestão Ativa	463.277	0,00085	0,00346	0,00346	7
+DVFF11	Devant	Papel: Híbrido	Banco Daycoval S.A.	0,0083	R$0,75	R$93,89 M	R$85,28	09/04/2021	Títulos e Valores Mobiliários Gestão Ativa	1.100.950	0,00031	0,00763	0,00763	3
+EDFO11B	Edifício Ourinvest	Tijolo: Escritórios	Oliveira Trust	0,0059	R$1,32	R$50,58 M	R$214,34	27/07/2004	Renda Gestão Passiva	236.000	0,00029	0,00556	0,00556	8
+EDGA11	Edifício Galeria	Tijolo: Escritórios	BTG Pactual	0,005	R$0,12	R$300,15 M	R$78,74	28/03/2012	Renda Gestão Passiva	3.812.055	0,00232	0,00518	0,00518	10
+EGYR11	Energy Resort	Tijolo: Desenvolvimento	Reag DTVM	0,0	R$0,00	R$93,24 M	R$12,48	28/09/2020	Títulos e Valores Mobiliários Gestão Passiva	7.471.431	-1.0	-1.0	0	0
+ELDO11B	Eldorado	Tijolo: Shoppings	Rio Bravo Investimentos	0,002	R$2,20	R$973,33 M	R$1.236,36	04/03/2011	Renda Gestão Passiva	787.256	-1.0	-1.0	0	0
+EQIN11	NCH EQI High Yield Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0138	R$1,24	R$135,59 M	R$94,03	25/10/2013	Títulos e Valores Mobiliários Gestão Ativa	1.441.970	0,00188	0,00959	0,00959	10
+EQIR11	EQI Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0	R$0,00	R$50,24 M	R$99,98	22/07/2021	Títulos e Valores Mobiliários Gestão Ativa	502.500	-1.0	-1.0	0	0
+ERCR11	Estoque Residencial e Comercial Rio de Janeiro	Tijolo: Desenvolvimento	Oliveira Trust	0,0	R$1,17	R$179,29 M	R$75.459,52	30/09/2020	Desenvolvimento para Renda Gestão Passiva	2.376	-1.0	-1.0	0	0
+ERPA11	Europa 105	Tijolo: Escritórios	Oliveira Trust	0,0	R$0,00	R$52,99 M	R$106,82	25/02/2019	Renda Gestão Passiva	496.110	-1.0	-1.0	0	0
+EURO11	EUROPAR	Tijolo: Galpões	COINVALORES	0,0078000000000000005	R$1,50	R$109,02 M	R$283,97	03/12/2002	Híbrido Gestão Passiva	383.936	0,00047	0,00679	0,00679	10
+EVBI11	VBI Consumo Essencial	Tijolo: Outros	BRL Trust DTVM	0,006500000000000001	R$0,64	R$109,89 M	R$101,52	27/09/2019	Renda Gestão Ativa	1.082.460	0,00021	0,00634	0,00634	5
+FAED11	Anhanguera Educacional	Tijolo: Educacional	BTG Pactual	0,0084	R$1,13	R$137,41 M	R$213,98	27/08/2009	Renda Gestão Passiva	642.168	0,00055	0,00729	0,00729	10
+FAMB11B	Edifício Almirante Barroso	Tijolo: Escritórios	BTG Pactual	0,0091	R$9,16	R$361,37 M	R$3.448,14	06/03/2003	Renda Gestão Passiva	104.800	0,00155	0,00884	0,00884	10
+FATN11	Athena I	Tijolo: Escritórios	BR-CAPITAL	0,0074	R$0,74	R$81,26 M	R$100,19	28/05/2018	Renda Gestão Ativa	811.104	0,00036	0,00663	0,00663	8
+FCFL11	Campus Faria Lima	Tijolo: Educacional	BTG Pactual	0,0077	R$0,74	R$352,51 M	R$101,47	18/02/2010	Renda Gestão Passiva	3.474.010	0,00074	0,00614	0,00614	10
+FEXC11	BTG Pactual Fundo de CRI	Papel: CRIs	BTG Pactual	0,0102	R$0,82	R$572,89 M	R$93,86	10/04/2008	Títulos e Valores Mobiliários Gestão Ativa	6.103.509	0,00117	0,00858	0,00858	10
+FIGS11	General Shopping Ativo e Renda	Tijolo: Shoppings	Hedge Investments DTVM LTDA	0,006	R$0,30	R$268,81 M	R$94,32	04/02/2013	Renda Gestão Passiva	2.850.000	0,00138	0,00394	0,00394	10
+FIIB11	Industrial do Brasil	Tijolo: Galpões	COINVALORES	0,0076	R$3,30	R$303,19 M	R$442,62	29/07/2011	Híbrido Gestão Passiva	685.000	0,00066	0,00657	0,00657	10
+FIIP11B	RB Capital Renda I	Tijolo: Galpões	Oliveira Trust	0,0085	R$1,30	R$185,75 M	R$200,35	23/03/2007	Renda Gestão Passiva	927.162	0,00069	0,00640	0,00640	10
+FINF11	Infra Real State	Tijolo: Galpões	Planner Trustee DTVM LTDA	0,0	R$0,18	R$91,75 M	R$111,88	04/10/2013	Desenvolvimento para Renda Gestão Ativa	820.113	-1.0	-1.0	0	0
+FISC11	SC 401	Tijolo: Escritórios	BR-CAPITAL	0,0019	R$0,31	R$255,25 M	R$155,37	11/05/2012	Renda Gestão Ativa	1.642.916	-1.0	-1.0	0	0
+FISD11	São Domingos	Papel: CRIs	RJI CTVM LTDA	0,0321	R$6,53	R$110,75 M	R$103,26	09/04/2014	Títulos e Valores Mobiliários Gestão Ativa	1.072.588	-1.0	-1.0	0	0
+FIVN11	Vida Nova	Tijolo: Shoppings	Oliveira Trust	0,0	R$0,00	R$64,58 M	R$6,86	01/07/2014	Renda Gestão Passiva	9.412.630	-1.0	-1.0	0	0
+FLCR11	Faria Lima Capital Recebíveis Imobiliários I	Papel: CRIs	BRL Trust DTVM	0,013999999999999999	R$1,40	R$50,19 M	R$100,38	04/09/2019	Títulos e Valores Mobiliários Gestão Ativa	500.000	0,00170	0,01036	0,01036	10
+FLMA11	Continental Square Faria Lima	Tijolo: Escritórios	BR-CAPITAL	0,0052	R$0,60	R$214,77 M	R$155,55	09/11/2000	Renda Gestão Ativa	1.380.670	0,00073	0,00379	0,00379	10
+FLRP11	Floripa Shopping	Tijolo: Shoppings	BTG Pactual	0,0049	R$6,00	R$108,64 M	R$1.665,50	03/09/2009	Renda Gestão Passiva	65.232	0,00071	0,00420	0,00420	10
+FMOF11	Memorial Office	Tijolo: Escritórios	COIN DTVM	0,0004	R$0,03	R$66,98 M	R$131,85	09/12/1996	Renda Gestão Passiva	508.008	0,00338	0,00472	0,00472	9
+FPAB11	Projeto Agua Branca	Tijolo: Escritórios	COIN DTVM	0,0060999999999999995	R$1,20	R$336,15 M	R$448,20	01/05/1998	Renda Gestão Passiva	750.000	0,00070	0,00485	0,00485	10
+FPNG11	Pedra Negra Renda Imobiliária	Tijolo: Escritórios	BR-CAPITAL	0,0062	R$0,62	R$165,33 M	R$166,92	16/01/2013	Renda Gestão Ativa	990.500	-1.0	-1.0	0	0
+FTCE11B	Opportunity	Híbrido (Tijolo/Papel)	BRL Trust DTVM	0,0318	R$93,89	R$2,51 B	R$2.746,11	28/02/1996	Híbrido Gestão Ativa	912.380	-1.0	-1.0	0	0
+FVPQ11	Via Parque Shopping	Tijolo: Shoppings	Rio Bravo Investimentos	0,0033	R$0,34	R$549,70 M	R$196,31	06/11/1995	Renda Gestão Passiva	2.800.149	0,00237	0,00416	0,00416	10
+GALG11	Guardian Logística	Tijolo: Galpões	BRL Trust DTVM	0,0086	R$0,84	R$578,89 M	R$103,13	20/07/2020	Híbrido Gestão Ativa	5.613.031	0,00036	0,00771	0,00771	10
+GCFF11	Galapagos	Papel: Fundo de Fundos	BTG Pactual	0,009899999999999999	R$0,67	R$29,96 M	R$88,47	01/04/2020	Títulos e Valores Mobiliários Gestão Ativa	338.598	0,00075	0,00868	0,00868	10
+GCRI11	Galapagos Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0109	R$1,03	R$101,56 M	R$101,53	02/12/2020	Títulos e Valores Mobiliários Gestão Ativa	1.000.320	0,00044	0,01000	0,01000	7
+GESE11B	General Severiano	Tijolo: Educacional	Oliveira Trust	0,0055000000000000005	R$8,28	R$86,16 M	R$1.657,00	04/05/2016	Renda Gestão Passiva	52.000	-1.0	-1.0	0	0
+GGRC11	GGR Covepi Renda	Tijolo: Galpões	CM Capital Markets	0,008199999999999999	R$0,80	R$1,02 B	R$131,76	11/01/2017	Híbrido Gestão Ativa	7.758.429	0,00099	0,00628	0,00628	10
+GSFI11	General Shopping e Outlets do Brasil	Tijolo: Shoppings	Planner Trustee DTVM LTDA	0,0002	R$0,00	R$902,91 M	R$13,18	08/04/2010	Renda Gestão Ativa	68.482.196	0,00000	0,00030	0,00030	1
+GTLG11	Gtis Brazil Logistics	Tijolo: Galpões	BRL Trust DTVM	0,0070999999999999995	R$0,73	R$717,46 M	R$100,02	--/--/--	Renda Gestão Ativa	7.173.000	0,00000	0,00720	0,00720	1
+GTWR11	Green Towers	Tijolo: Escritórios	Votorantim Asset Management	0,009399999999999999	R$0,67	R$1,21 B	R$100,91	05/11/2015	Renda Gestão Ativa	12.000.000	0,00072	0,00677	0,00677	10
+HAAA11	Hedge AAA	Tijolo: Escritórios	Hedge Investments DTVM LTDA	0,005699999999999999	R$0,54	R$327,44 M	R$94,77	17/04/2017	Renda Gestão Ativa	3.455.000	0,00024	0,00531	0,00531	8
+HABT11	Habitat II FII	Papel: CRIs	Vórtx DTVM LTDA	0,0134	R$1,50	R$519,46 M	R$95,98	09/05/2019	Títulos e Valores Mobiliários Gestão Ativa	5.412.107	0,00182	0,01279	0,01279	10
+HBCR11	HBC Renda Urbana	Tijolo: Escritórios	Banco Genial	0,0097	R$1,12	R$25,19 M	R$92,60	15/10/2020	Desenvolvimento para Renda Gestão Ativa	272.000	0,00000	0,01030	0,01030	1
+HBRH11	Multi Renda Urbana	Tijolo: Escritórios	BRL Trust DTVM	0,008100000000000001	R$0,65	R$295,86 M	R$106,72	17/08/2018	Renda Gestão Ativa	2.772.204	0,00060	0,00691	0,00691	10
+HCHG11	Hectare Recebíveis High Grade	Papel: CRIs	Vórtx DTVM LTDA	0,008	R$0,70	R$110,68 M	R$92,23	06/01/2021	Títulos e Valores Mobiliários Gestão Ativa	1.200.000	0,00176	0,00577	0,00577	4
+HCRI11	Hospital da Criança	Tijolo: Hospital	BTG Pactual	0,0098	R$3,43	R$59,83 M	R$299,14	02/10/2000	Renda Gestão Passiva	200.000	0,00094	0,00740	0,00740	10
+HCST11	Hectare Desenvolvimento Student Housing	Tijolo: Shoppings	Vórtx DTVM LTDA	0,0	R$0,00	R$30,16 M	R$105,10	--/--/--	Desenvolvimento para Renda Gestão Ativa	286.943	-1.0	-1.0	0	0
+HCTR11	Hectare CE FII	Papel: CRIs	Vórtx DTVM LTDA	0,013500000000000002	R$1,60	R$2,30 B	R$116,77	15/09/2018	Títulos e Valores Mobiliários Gestão Ativa	19.720.457	0,00076	0,01313	0,01313	10
+HFOF11	Hedge Top FOFII 3	Papel: Fundo de Fundos	Hedge Investments DTVM LTDA	0,0078000000000000005	R$0,60	R$2,00 B	R$87,15	19/10/2017	Títulos e Valores Mobiliários Gestão Ativa	22.975.000	0,00066	0,00620	0,00620	10
+HGBS11	Hedge Brasil Shopping	Tijolo: Shoppings	Hedge Investments DTVM LTDA	0,005699999999999999	R$0,90	R$2,13 B	R$212,77	28/12/2006	Renda Gestão Ativa	10.000.000	0,00111	0,00327	0,00327	10
+HGCR11	CSHG Recebíveis Imobiliários	Papel: CRIs	Credit Suisse Hedging-Griffo	0,009000000000000001	R$0,90	R$1,25 B	R$101,39	13/01/2010	Títulos e Valores Mobiliários Gestão Ativa	12.372.450	0,00220	0,00774	0,00774	10
+HGFF11	CSHG Imobiliário FOF	Papel: Fundo de Fundos	Credit Suisse Hedging-Griffo	0,0085	R$0,55	R$252,34 M	R$88,12	20/02/2019	Títulos e Valores Mobiliários Gestão Ativa	2.863.597	0,00052	0,00620	0,00620	10
+HGIC11	HGI Créditos Imobiliários	Papel: CRIs	Vórtx DTVM LTDA	0,009399999999999999	R$1,00	R$24,35 M	R$104,67	06/11/2020	Títulos e Valores Mobiliários Gestão Ativa	232.632	0,00135	0,00769	0,00769	7
+HGLG11	CSHG Logística	Tijolo: Galpões	Credit Suisse Hedging-Griffo	0,006999999999999999	R$1,10	R$3,14 B	R$147,24	08/06/2010	Renda Gestão Ativa	21.313.413	0,00245	0,00631	0,00631	10
+HGPO11	CSHG Prime Offices	Tijolo: Escritórios	Credit Suisse Hedging-Griffo	0,0058	R$1,30	R$423,37 M	R$241,50	11/11/2009	Renda Gestão Passiva	1.753.057	0,00083	0,00529	0,00529	10
+HGRE11	CSHG Real Estate	Tijolo: Escritórios	Credit Suisse Hedging-Griffo	0,006	R$0,69	R$2,01 B	R$170,00	06/05/2008	Renda Gestão Ativa	11.817.767	0,00165	0,00555	0,00555	10
+HGRU11	CSHG Renda Urbana	Tijolo: Educacional	Credit Suisse Hedging-Griffo	0,006999999999999999	R$0,72	R$2,16 B	R$117,39	14/02/2018	Renda Gestão Ativa	18.406.458	0,00068	0,00602	0,00602	10
+HLOG11	Hedge Logística	Tijolo: Galpões	Hedge Investments DTVM LTDA	0,006500000000000001	R$0,63	R$485,50 M	R$114,24	28/03/2017	Renda Gestão Ativa	4.250.000	0,00029	0,00562	0,00562	10
+HOSI11	FII Housi	Tijolo: Outros	Vórtx DTVM LTDA	0,0066	R$0,49	R$52,93 M	R$92,31	10/09/2019	Híbrido Gestão Ativa	573.450	0,00054	0,00643	0,00643	10
+HPDP11	Hedge Shopping Parque Dom Pedro	Tijolo: Shoppings	Hedge Investments DTVM LTDA	0,0053	R$0,40	R$279,49 M	R$96,08	22/11/2019	Renda Gestão Passiva	2.908.813	0,00151	0,00251	0,00251	8
+HRDF11	Hedge Realty Development	Tijolo: Desenvolvimento	Hedge Investments DTVM LTDA	0,0	R$0,00	R$9,42 M	R$1,24	29/12/2012	Desenvolvimento para Venda Gestão Ativa	7.587.125	-1.0	-1.0	0	0
+HREC11	Hedge Recebíveis	Papel: CRIs	Hedge Investments DTVM LTDA	0,0083	R$0,80	R$261,26 M	R$91,80	21/11/2019	Títulos e Valores Mobiliários Gestão Ativa	2.846.000	0,00129	0,00807	0,00807	10
+HSAF11	HSI Ativos Financeiros	Papel: CRIs	BRL Trust DTVM	0,0118	R$1,05	R$168,07 M	R$94,76	15/06/2020	Títulos e Valores Mobiliários Gestão Ativa	1.773.624	0,00109	0,01012	0,01012	10
+HSLG11	HSI Logística	Tijolo: Galpões	BRL Trust DTVM	0,0075	R$0,58	R$1,43 B	R$112,65	20/02/2019	Renda Gestão Ativa	12.660.067	0,00057	0,00570	0,00570	10
+HSML11	HSI Mall	Tijolo: Shoppings	Santander Caceis Brasil DTVM	0,0075	R$0,52	R$1,50 B	R$95,20	07/03/2019	Renda Gestão Ativa	15.780.613	0,00160	0,00471	0,00471	10
+HSRE11	HSI Renda Imobiliária	Tijolo: Híbrido	BRL Trust DTVM	0,005699999999999999	R$0,56	R$828,33 M	R$97,24	11/08/2006	Renda Gestão Ativa	8.518.064	0,00103	0,00516	0,00516	5
+HTMX11	Hotel Maxinvest	Tijolo: Hotéis	BTG Pactual	0,0083	R$0,71	R$163,67 M	R$130,20	13/02/2007	Títulos e Valores Mobiliários Gestão Ativa	1.257.022	0,00207	0,00475	0,00475	10
+HUSC11	Hospital Unimed Sul Capixaba	Tijolo: Hospital	Rio Bravo Investimentos	0,0066	R$0,78	R$103,64 M	R$130,43	09/11/2017	Desenvolvimento para Renda Gestão Passiva	794.613	0,00073	0,00576	0,00576	10
+HUSI11	HUSI FII	Tijolo: Hospital	Planner Corretora de Valores	0,0	R$0,00	R$99,86 M	R$955,00	04/04/2018	Desenvolvimento para Renda Gestão Ativa	104.562	-1.0	-1.0	0	0
+IBFF11	FOF Integral Brei	Papel: Fundo de Fundos	BTG Pactual	0,0089	R$0,52	R$49,12 M	R$73,69	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	666.681	0,00180	0,00672	0,00672	10
+IFID11	IFI-D Inter	Papel: Fundo de Fundos	Inter DTVM	0,011000000000000001	R$0,86	R$66,18 M	R$88,46	30/11/2020	Renda Gestão Passiva	748.151	0,00115	0,00901	0,00901	8
+IFIE11	IFI-E Inter	Papel: Fundo de Fundos	Inter DTVM	0,0068000000000000005	R$0,50	R$71,56 M	R$79,47	19/02/2020	Renda Gestão Passiva	900.494	0,00114	0,00509	0,00509	10
+IRDM11	Iridium Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0134	R$1,37	R$2,71 B	R$96,93	27/02/2018	Títulos e Valores Mobiliários Gestão Ativa	28.000.000	0,00130	0,00933	0,00933	10
+IRIM11	Iridium	Papel: Híbrido	BTG Pactual	0,0127	R$1,44	R$131,44 M	R$101,11	--/--/--	Híbrido Gestão Ativa	1.300.000	0,00115	0,01155	0,01155	2
+JFLL11	JFL Living	Tijolo: Outros	Banco Genial	0,009300000000000001	R$0,62	R$145,19 M	R$96,75	--/--/--	Renda Gestão Ativa	1.500.598	0,00071	0,00720	0,00720	9
+JPPA11	JPP Allocation Mogno	Papel: CRIs	Vórtx DTVM LTDA	0,011699999999999999	R$1,10	R$61,84 M	R$102,39	25/06/2018	Títulos e Valores Mobiliários Gestão Ativa	603.964	0,00112	0,00990	0,00990	10
+JPPC11	JPP Capital	Tijolo: Desenvolvimento	Banco Finaxis	0,2391	R$55,00	R$30,24 M	R$549,76	30/10/2012	Híbrido Gestão Ativa	55.000	-1.0	-1.0	0	0
+JRDM11	Shopping Jardim Sul	Tijolo: Shoppings	BTG Pactual	0,0055000000000000005	R$0,33	R$221,88 M	R$87,94	02/01/2012	Renda Gestão Passiva	2.522.968	0,00135	0,00327	0,00327	10
+JSRE11	JS Real Estate Multigestão	Tijolo: Escritórios	Banco J. Safra	0,0078000000000000005	R$0,53	R$2,36 B	R$113,43	23/02/2011	Híbrido Gestão Ativa	20.767.328	0,00057	0,00598	0,00598	10
+JTPR11	JT Prev FII Desenvolvimento Habitacional	Tijolo: Desenvolvimento	Planner Corretora de Valores	0,0	R$1,63	R$24,72 M	R$115,15	19/09/2016	Desenvolvimento para Venda Gestão Ativa	214.675	-1.0	-1.0	0	0
+KEVE11	Even II Kinea	Tijolo: Desenvolvimento	INTRAG DTVM	0,0	R$0,00	R$144,15 M	R$975,93	11/08/2020	Desenvolvimento para Venda Gestão Passiva	147.701	-1.0	-1.0	0	0
+KFOF11	Kinea FII	Papel: Fundo de Fundos	INTRAG DTVM	0,0084	R$0,58	R$419,87 M	R$92,62	17/08/2018	Títulos e Valores Mobiliários Gestão Ativa	4.533.315	0,00140	0,00656	0,00656	10
+KINP11	Even Permuta Kinea	Tijolo: Desenvolvimento	INTRAG DTVM	0,0134	R$0,17	R$56,78 M	R$7,94	--/--/--	Desenvolvimento para Venda Gestão Ativa	7.147.934	0,00666	0,01878	0,01878	4
+KISU11	Kilima FIC de FII SUNO 30	Papel: Fundo de Fundos	Vórtx DTVM LTDA	0,008199999999999999	R$0,06	R$397,54 M	R$8,99	16/09/2020	Títulos e Valores Mobiliários Gestão Ativa	44.196.050	0,00077	0,00646	0,00646	10
+KNCR11	Kinea Rendimentos Imobiliários	Papel: CRIs	INTRAG DTVM	0,005699999999999999	R$0,56	R$3,94 B	R$100,70	03/08/2012	Títulos e Valores Mobiliários Gestão Ativa	39.097.087	0,00103	0,00424	0,00424	10
+KNHY11	Kinea High Yield CRI	Papel: CRIs	INTRAG DTVM	0,0127	R$1,35	R$1,37 B	R$95,54	20/06/2018	Títulos e Valores Mobiliários Gestão Ativa	14.290.843	0,00114	0,01096	0,01096	10
+KNIP11	Kinea Índice de Preços	Papel: CRIs	INTRAG DTVM	0,0139	R$1,40	R$5,76 B	R$97,40	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	59.134.764	0,00133	0,01060	0,01060	10
+KNRE11	Kinea II real Estate Equity	Tijolo: Desenvolvimento	INTRAG DTVM	0,0175	R$0,03	R$37,28 M	R$2,01	03/10/2011	Desenvolvimento para Venda Gestão Ativa	18.547.161	0,00955	0,01281	0,01281	10
+KNRI11	Kinea Renda Imobiliária	Tijolo: Híbrido	INTRAG DTVM	0,006	R$0,77	R$3,78 B	R$156,61	07/07/2010	Renda Gestão Ativa	24.157.121	0,00040	0,00485	0,00485	10
+KNSC11	Kinea Securities	Papel: CRIs	INTRAG DTVM	0,013600000000000001	R$1,30	R$700,46 M	R$88,26	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	7.936.528	0,00158	0,01058	0,01058	10
+LASC11	Legatus Shoppings	Tijolo: Shoppings	Vórtx DTVM LTDA	0,005600000000000001	R$0,50	R$258,12 M	R$102,50	27/07/2019	Desenvolvimento para Renda Gestão Ativa	2.518.195	0,00112	0,00472	0,00472	6
+LATR11B	Lateres	Tijolo: Desenvolvimento	Oliveira Trust	0,11599999999999999	R$14,50	R$1,45 M	R$11,67	19/11/2012	Desenvolvimento para Venda Gestão Ativa	124.104	-1.0	-1.0	0	0
+LFTT11	Loft II	Tijolo: Desenvolvimento	Modal DTVM	0,021400000000000002	R$2,28	R$425,62 M	R$60,59	26/09/2018	Híbrido Gestão Ativa	7.024.543	0,00658	0,01724	0,01724	5
+LGCP11	LOGCP Inter	Tijolo: Galpões	Inter DTVM	0,0077	R$0,55	R$270,43 M	R$98,95	05/09/2019	Renda Gestão Ativa	2.732.860	0,00054	0,00590	0,00590	10
+LOFT11B	LOFT I	Tijolo: Desenvolvimento	MAF DTVM	0,0067	R$0,20	R$127,47 M	R$64,95	07/12/2016	Híbrido Gestão Ativa	1.962.500	0,00024	0,00737	0,00737	3
+LUGG11	Luggo	Tijolo: Outros	Inter DTVM	0,0062	R$0,51	R$112,31 M	R$124,79	23/09/2019	Renda Gestão Ativa	900.000	0,00042	0,00534	0,00534	10
+LVBI11	VBI LOGÍSTICO	Tijolo: Galpões	BTG Pactual	0,0078000000000000005	R$0,67	R$1,35 B	R$114,73	11/10/2018	Renda Gestão Ativa	11.775.177	0,00087	0,00541	0,00541	10
+MALL11	Malls Brasil Plural	Tijolo: Shoppings	Genial Investimentos Corretora de Valores	0,0073	R$0,60	R$784,90 M	R$103,82	--/--/--	Renda Gestão Ativa	7.560.351	0,00076	0,00542	0,00542	10
+MATV11	More Gestão Ativa de Recebíveis	Papel: CRIs	BTG Pactual	0,012	R$1,20	R$34,61 M	R$99,66	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	347.280	-1.0	-1.0	0	0
+MAXR11	Max Retail	Tijolo: Varejo	BTG Pactual	0,0088	R$0,72	R$132,61 M	R$117,80	26/10/2009	Renda Gestão Passiva	1.125.655	0,00361	0,00754	0,00754	10
+MBRF11	Mercantil do Brasil	Tijolo: Escritórios	Rio Bravo Investimentos	0,0109	R$7,50	R$113,28 M	R$1.114,22	22/06/2011	Renda Gestão Ativa	101.664	0,00078	0,00863	0,00863	10
+MCCI11	Mauá Capital Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0101	R$1,00	R$1,26 B	R$101,15	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	12.417.281	0,00143	0,00850	0,00850	10
+MCHF11	Mauá Capital Hedge Fund	Papel: Fundo de Fundos	BTG Pactual	0,0101	R$0,10	R$90,16 M	R$10,85	11/08/2020	Títulos e Valores Mobiliários Gestão Ativa	8.307.646	0,00004	0,00998	0,00998	4
+MCHY11	Maua Capital High Yield	Papel: CRIs	BTG Pactual	0,0108	R$1,30	R$349,73 M	R$98,87	14/06/2021	Não Informado	3.537.064	0,00000	0,01080	0,01080	1
+MFAI11	Mérito Fundo e Ações Imobiliárias	Híbrido (Tijolo/Papel)	Planner Trustee DTVM LTDA	0,009899999999999999	R$0,65	R$24,22 M	R$79,88	22/07/2019	Híbrido Gestão Ativa	303.173	0,00117	0,00781	0,00781	10
+MFII11	Mérito Desenvolvimento Imobiliário	Tijolo: Desenvolvimento	Planner Corretora de Valores	0,0121	R$1,24	R$425,17 M	R$102,53	06/09/2012	Híbrido Gestão Ativa	4.146.900	0,00130	0,00891	0,00891	10
+MGCR11	Mogno Certificados de Recebíveis Imobiliários High Grade	Papel: CRIs	BTG Pactual	0,0097	R$0,80	R$136,83 M	R$96,20	13/07/2020	Títulos e Valores Mobiliários Gestão Ativa	1.422.304	0,00080	0,00858	0,00858	10
+MGFF11	Mogno Fundo de Fundos	Papel: Fundo de Fundos	BTG Pactual	0,0085	R$0,50	R$693,09 M	R$76,58	23/03/2018	Títulos e Valores Mobiliários Gestão Ativa	9.050.620	0,00031	0,00725	0,00725	10
+MGHT11	Mogno Hoteis	Tijolo: Hotéis	BTG Pactual	0,0092	R$0,80	R$128,77 M	R$98,01	14/11/2019	Não Informado	1.313.784	0,00140	0,00698	0,00698	10
+MGIM11	Mogno Real Estate Impact Development Fund	Tijolo: Desenvolvimento	BTG Pactual	0,0	R$0,00	R$34,99 M	R$141,50	14/09/2020	Desenvolvimento para Venda Gestão Ativa	247.300	-1.0	-1.0	0	0
+MGLG11	Mogno Logística	Tijolo: Galpões	BRL Trust DTVM	0,0105	R$0,63	R$114,70 M	R$99,33	09/02/2021	Renda Gestão Ativa	1.154.709	0,00309	0,00763	0,00763	3
+MINT11	Mint Educacional	Tijolo: Educacional	Brasil Plural S.A. Banco Múltiplo	0,0	R$0,00	R$62,94 M	R$120,81	21/02/2020	Híbrido Gestão Ativa	521.013	-1.0	-1.0	0	0
+MORC11	More Recebíveis Imobiliários	Papel: CRIs	BTG Pactual	0,0126	R$1,25	R$67,42 M	R$100,11	26/03/2021	Títulos e Valores Mobiliários Gestão Ativa	673.440	-1.0	-1.0	0	0
+MORE11	More Real Estate FOF	Papel: Fundo de Fundos	BTG Pactual	0,0096	R$0,65	R$209,81 M	R$90,47	20/12/2019	Títulos e Valores Mobiliários Gestão Ativa	2.319.115	0,00140	0,00705	0,00705	10
+MTOF11	Alianza Multioffices	Tijolo: Escritórios	Oliveira Trust	0,0	R$0,00	R$164,22 M	R$91,08	18/11/2019	Títulos e Valores Mobiliários Gestão Ativa	1.802.900	-1.0	-1.0	0	0
+MXRF11	Maxi Renda	Papel: CRIs	BTG Pactual	0,009000000000000001	R$0,09	R$2,26 B	R$10,02	20/09/2011	Renda Gestão Ativa	226.039.663	0,00066	0,00753	0,00753	10
+NAVT11	Navi Imobiliário Total Return	Papel: Fundo de Fundos	BTG Pactual	0,0087	R$0,60	R$94,81 M	R$89,91	08/07/2020	Títulos e Valores Mobiliários Gestão Ativa	1.054.507	0,00138	0,00704	0,00704	7
+NEWL11	Newport Logística	Tijolo: Galpões	Brasil Plural S.A. Banco Múltiplo	0,0083	R$0,75	R$236,91 M	R$116,52	27/07/2018	Híbrido Gestão Ativa	2.033.099	0,00087	0,00831	0,00831	10
+NEWU11	Newport Renda Urbana	Tijolo: Escritórios	Brasil Plural S.A. Banco Múltiplo	0,0034000000000000002	R$0,11	R$45,74 M	R$61,64	20/12/2011	Híbrido Gestão Ativa	742.000	0,05076	0,02073	0,02073	8
+NPAR11	Nestpar	Papel: CRIs	Planner Trustee DTVM LTDA	0,09570000000000001	R$1,20	R$2,22 M	R$18,56	23/05/2016	Híbrido Gestão Ativa	119.590	0,11692	0,07878	0,07878	5
+NSLU11	Hospital Nossa Senhora de Lourdes	Tijolo: Hospital	BTG Pactual	0,0095	R$2,00	R$244,41 M	R$213,49	17/03/2006	Renda Gestão Passiva	1.144.800	0,00105	0,00751	0,00751	10
+NVHO11	Novo Horizonte	Tijolo: Hospital	Genial Investimentos Corretora de Valores	0,0067	R$0,08	R$514,67 M	R$12,40	18/09/2013	Desenvolvimento para Renda Gestão Ativa	41.494.533	0,00087	0,00505	0,00505	10
+NVIF11B	Nova I	Tijolo: Desenvolvimento	MAF DTVM	0,0	R$0,30	R$59,63 M	R$176,73	12/03/2015	Híbrido Gestão Ativa	337.400	-1.0	-1.0	0	0
+ONEF11	The One	Tijolo: Escritórios	Rio Bravo Investimentos	0,0054	R$0,73	R$158,90 M	R$174,42	07/01/2011	Renda Gestão Passiva	911.000	0,00031	0,00480	0,00480	10
+ORPD11	Ouro Verde Desenvolvimento Imobiliário I	Tijolo: Desenvolvimento	Planner Trustee DTVM LTDA	0,0104	R$1,38	R$44,10 M	R$152,06	29/04/2016	Títulos e Valores Mobiliários Gestão Ativa	290.000	-1.0	-1.0	0	0
+OUFF11	Ourinvest Fundo de Fundos	Papel: Fundo de Fundos	Banco Ourinvest S.A.	0,0102	R$0,65	R$144,26 M	R$79,51	28/03/2019	Títulos e Valores Mobiliários Gestão Ativa	1.814.336	0,00094	0,00827	0,00827	10
+OUJP11	OURINVEST JPP	Papel: CRIs	Finaxis CTVM SA	0,011200000000000002	R$0,93	R$323,01 M	R$99,31	30/11/2016	Títulos e Valores Mobiliários Gestão Ativa	3.252.384	0,00168	0,00784	0,00784	10
+OULG11	Ourinvest Logistica	Tijolo: Galpões	Banco Ourinvest S.A.	0,0102	R$0,50	R$230,68 M	R$92,97	23/01/2013	Renda Gestão Ativa	2.481.284	0,00072	0,00738	0,00738	10
+OURE11	Ourinvest Renda Estruturada	Papel: CRIs	Banco Ourinvest S.A.	0,0131	R$1,10	R$99,54 M	R$91,84	21/09/2017	Híbrido Gestão Ativa	1.083.929	0,00194	0,00928	0,00928	10
+PABY11	Panamby	Tijolo: Desenvolvimento	BRKB DTVM	0,011200000000000002	R$0,13	R$-7,70 M	R$0,00	14/03/1995	Desenvolvimento para Venda Gestão Passiva	758.400	0,00000	0,00330	0,00330	1
+PATC11	Pátria Edifícios Corporativos	Tijolo: Escritórios	Modal DTVM	0,005	R$0,30	R$299,17 M	R$86,03	11/01/2018	Desenvolvimento para Renda Gestão Ativa	3.477.434	0,00046	0,00444	0,00444	10
+PATL11	Pátria Logística	Tijolo: Galpões	Vórtx DTVM LTDA	0,0092	R$0,57	R$476,25 M	R$95,41	15/01/2020	Desenvolvimento para Renda Gestão Ativa	4.991.535	0,00087	0,00687	0,00687	10
+PBLV11	Prologis Brazil Logistics Venture	Tijolo: Galpões	BRL Trust DTVM	0,0	R$26,39	R$4,03 B	R$1.346,96	05/12/2018	Híbrido Gestão Ativa	2.989.159	-1.0	-1.0	0	0
+PEMA11	Performa Real Estate	Papel: CRIs	BRL Trust DTVM	0,042	R$2,86	R$48,54 M	R$87,94	30/10/2019	Títulos e Valores Mobiliários Gestão Ativa	552.000	0,01382	0,01917	0,01917	3
+PLCR11	Plural Recebíveis	Papel: CRIs	Brasil Plural S.A. Banco Múltiplo	0,0111	R$0,90	R$192,71 M	R$91,37	31/07/2019	Híbrido Gestão Ativa	2.109.169	0,00096	0,00919	0,00919	10
+PLOG11	Plural Logística	Tijolo: Galpões	Banco Genial	0,0104	R$0,72	R$71,56 M	R$95,42	01/12/2020	Renda Gestão Ativa	750.000	0,00261	0,00706	0,00706	8
+PLRI11	Polo Recebíveis Imobiliários I	Papel: CRIs	Oliveira Trust	0,0042	R$0,16	R$42,84 M	R$44,89	01/08/2011	Títulos e Valores Mobiliários Gestão Ativa	954.304	0,00188	0,00520	0,00520	10
+PORD11	Polo Recebíveis Imobiliários II	Papel: CRIs	Oliveira Trust	0,0104	R$0,93	R$368,31 M	R$98,78	19/09/2012	Títulos e Valores Mobiliários Gestão Ativa	3.728.375	0,00076	0,00897	0,00897	10
+PQAG11	Parque Anhanguera	Tijolo: Galpões	Hedge Investments DTVM LTDA	0,006	R$0,37	R$795,77 M	R$56,87	31/03/2011	Desenvolvimento para Renda Gestão Ativa	13.991.890	0,00036	0,00555	0,00555	10
+PQDP11	Parque Dom Pedro Shopping Center	Tijolo: Shoppings	BTG Pactual	0,0066	R$12,67	R$865,36 M	R$3.628,71	12/05/2009	Renda Gestão Passiva	238.477	0,00251	0,00388	0,00388	10
+PRSN11B	Personale I	Tijolo: Desenvolvimento	Oliveira Trust	0,0182	R$0,01	R$18,83 M	R$0,36	26/07/2011	Desenvolvimento para Venda Gestão Ativa	51.699.979	0,00931	0,01730	0,01730	4
+PRSV11	Presidente Vargas	Tijolo: Escritórios	Hedge Investments DTVM LTDA	0,0127	R$1,62	R$46,94 M	R$240,72	31/10/2008	Renda Gestão Passiva	195.000	0,00083	0,00547	0,00547	10
+PRTS11	Multi Properties	Tijolo: Shoppings	Banco Modal S.A.	0,0	R$0,00	R$3,61 M	R$0,06	--/--/--	Renda Gestão Ativa	55.727.500	-1.0	-1.0	0	0
+PURB11	Plural Renda Urbana	Tijolo: Outros	Banco Genial	0,0	R$0,00	R$25,41 M	R$86,44	11/08/2021	Renda Gestão Ativa	293.971	-1.0	-1.0	0	0
+PVBI11	VBI Prime Properties	Tijolo: Escritórios	BTG Pactual	0,0066	R$0,56	R$999,88 M	R$99,59	05/03/2020	Renda Gestão Ativa	10.039.493	0,00051	0,00572	0,00572	10
+QAGR11	Quasar Agro	Tijolo: Outros	BTG Pactual	0,008	R$0,38	R$301,02 M	R$59,73	04/11/2019	Renda Gestão Ativa	5.040.000	0,00083	0,00725	0,00725	10
+QAMI11	Quasar Crédito Imobiliário	Papel: CRIs	Banco Genial	0,015	R$1,40	R$71,99 M	R$89,83	22/02/2021	Híbrido Gestão Ativa	801.398	0,00350	0,01024	0,01024	7
+QIRI11	Quatá Imob Recebíveis Imobiliários	Papel: Fundo de Fundos	BRL Trust DTVM	0,0064	R$0,55	R$13,21 M	R$88,09	07/05/2020	Títulos e Valores Mobiliários Gestão Passiva	150.000	0,00087	0,00633	0,00633	10
+RBCO11	RB Capital Office Income	Tijolo: Escritórios	BRL Trust DTVM	0,008199999999999999	R$0,42	R$380,41 M	R$100,66	--/--/--	Renda Gestão Ativa	3.779.001	0,00074	0,00688	0,00688	10
+RBDS11	RB Capital Desenvolvimento Residencial II	Tijolo: Desenvolvimento	Oliveira Trust	0,24	R$2,35	R$3,28 M	R$25,94	06/08/2010	Desenvolvimento para Venda Gestão Ativa	126.523	0,03000	0,02720	0,02720	10
+RBED11	Rio Bravo Renda Educacional	Tijolo: Educacional	Rio Bravo Investimentos	0,0091	R$1,06	R$286,14 M	R$141,54	20/09/2011	Desenvolvimento para Renda Gestão Ativa	2.021.621	0,00046	0,00725	0,00725	10
+RBFF11	Rio Bravo IFIX	Papel: Fundo de Fundos	BRL Trust DTVM	0,0091	R$0,47	R$248,07 M	R$66,17	22/03/2013	Títulos e Valores Mobiliários Gestão Ativa	3.749.215	0,00085	0,00723	0,00723	10
+RBGS11	RB Capital General Shopping Sulacap	Tijolo: Shoppings	Oliveira Trust	0,0046	R$0,13	R$97,86 M	R$90,78	10/05/2011	Renda Gestão Passiva	1.078.000	0,00302	0,00500	0,00500	10
+RBHG11	Rio Bravo Crédito Imobiliário High Grade	Papel: CRIs	BRL Trust DTVM	0,013300000000000001	R$1,10	R$165,98 M	R$96,08	17/07/2019	Títulos e Valores Mobiliários Gestão Ativa	1.727.582	0,00166	0,00891	0,00891	10
+RBHY11	Rio Bravo Crédito Imobiliário High Yield	Papel: CRIs	BRL Trust DTVM	0,0152	R$1,50	R$155,72 M	R$98,45	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	1.581.644	0,00246	0,01086	0,01086	8
+RBIR11	RB Capital Desenvolvimento Residencial IV	Tijolo: Desenvolvimento	Oliveira Trust	0,0	R$0,00	R$146,68 M	R$95,95	11/10/2019	Desenvolvimento para Venda Gestão Ativa	1.528.615	-1.0	-1.0	0	0
+RBLG11	RB Capital Logístico	Tijolo: Galpões	BTG Pactual	0,0092	R$0,80	R$69,69 M	R$108,86	06/07/2020	Renda Gestão Ativa	640.199	0,00209	0,00580	0,00580	3
+RBRD11	RB Capital Renda II	Tijolo: Varejo	Votorantim Asset Management	0,0040999999999999995	R$0,18	R$133,67 M	R$72,18	13/08/2007	Renda Gestão Passiva	1.851.786	0,00117	0,00141	0,00141	10
+RBRF11	RBR Alpha Multiestratégia Real Estate	Papel: Fundo de Fundos	BTG Pactual	0,0088	R$0,60	R$1,15 B	R$84,29	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	13.680.770	0,00073	0,00709	0,00709	10
+RBRL11	RBR LOG	Tijolo: Galpões	BRL Trust DTVM	0,0091	R$0,76	R$712,94 M	R$106,62	27/11/2019	Híbrido Gestão Ativa	6.687.035	0,00093	0,00663	0,00663	10
+RBRM11	RBR Desenvolvimento	Tijolo: Desenvolvimento	BTG Pactual	0,0001	R$13,90	R$74,56 M	R$138.328,79	04/10/2016	Não Informado	539	-1.0	-1.0	0	0
+RBRP11	RBR Properties	Tijolo: Escritórios	BRL Trust DTVM	0,0068000000000000005	R$0,46	R$1,02 B	R$83,87	--/--/--	Renda Gestão Ativa	12.179.187	0,00100	0,00515	0,00515	10
+RBRR11	RBR Rendimento High Grade	Papel: CRIs	BTG Pactual	0,0097	R$0,90	R$1,03 B	R$99,70	18/04/2018	Títulos e Valores Mobiliários Gestão Ativa	10.362.300	0,00113	0,00785	0,00785	10
+RBRS11	Rio Bravo Renda Residencial	Tijolo: Desenvolvimento	Rio Bravo Investimentos	0,0064	R$0,42	R$125,74 M	R$90,49	02/03/2020	Renda Gestão Ativa	1.389.471	0,00059	0,00536	0,00536	10
+RBRY11	BR Crédito Imobiliário Estruturado	Papel: CRIs	BTG Pactual	0,0101	R$1,00	R$351,29 M	R$103,41	17/04/2018	Títulos e Valores Mobiliários Gestão Ativa	3.397.153	0,00130	0,00787	0,00787	10
+RBTS11	RB Capital TFO Situs	Tijolo: Desenvolvimento	Oliveira Trust	0,0363	R$36,34	R$56,98 M	R$1.008,06	18/01/2018	Híbrido Gestão Ativa	56.525	-1.0	-1.0	0	0
+RBVA11	Rio Bravo Renda Varejo	Tijolo: Bancário	Rio Bravo Investimentos	0,0104	R$0,99	R$1,22 B	R$105,13	28/08/2013	Renda Gestão Ativa	11.588.199	0,00110	0,00833	0,00833	10
+RBVO11	Rio Bravo Crédito Imobiliário II	Papel: CRIs	Rio Bravo Investimentos	0,0027	R$0,04	R$11,58 M	R$22,46	19/06/2012	Não Informado	515.824	0,00128	0,00261	0,00261	10
+RCFA11	Grupo RCFA	Tijolo: Desenvolvimento	Terra Investimentos DTVM	0,0	R$0,00	R$18,16 M	R$1,56	13/06/2017	Desenvolvimento para Venda Gestão Passiva	11.678.533	-1.0	-1.0	0	0
+RCFF11	BR Desenvolvimento Comercial Feeder FOF	Papel: Fundo de Fundos	BRL Trust DTVM	0,0209	R$2,00	R$29,87 M	R$92,41	06/02/2020	Títulos e Valores Mobiliários Gestão Ativa	323.200	0,00000	0,02870	0,02870	1
+RCRB11	Rio Bravo Renda Corporativa	Tijolo: Escritórios	Rio Bravo Investimentos	0,0072	R$0,95	R$716,62 M	R$194,17	23/12/1999	Renda Gestão Ativa	3.690.695	0,00069	0,00553	0,00553	10
+RCRI11B	RB Capital Rendimentos	Papel: CRIs	Oliveira Trust	0,0066	R$7,94	R$33,28 M	R$652,36	21/11/2017	Títulos e Valores Mobiliários Gestão Ativa	51.012	-1.0	-1.0	0	0
+RDPD11	BB Renda de Papeis Imobiliários II	Papel: CRIs	Votorantim Asset Management	0,0085	R$0,50	R$75,68 M	R$70,20	28/12/2017	Títulos e Valores Mobiliários Gestão Ativa	1.078.042	0,00220	0,00655	0,00655	10
+RECR11	REC Recebíveis Imobiliários	Papel: CRIs	BRL Trust DTVM	0,0111	R$1,08	R$1,84 B	R$95,18	21/07/2017	Títulos e Valores Mobiliários Gestão Ativa	19.380.744	0,00112	0,01060	0,01060	10
+RECT11	UBS (BR) Office	Indefinido	BRL Trust DTVM	0,0086	R$0,53	R$756,38 M	R$92,47	20/12/2018	Híbrido Gestão Ativa	8.179.347	0,00070	0,00724	0,00724	10
+RECX11	Rec Fundo de Fundos	Papel: Fundo de Fundos	BTG Pactual	0,011000000000000001	R$0,90	R$17,41 M	R$87,84	30/11/2020	Títulos e Valores Mobiliários Gestão Ativa	198.151	0,00098	0,00924	0,00924	7
+REIT11	Singulare Fundo de Investimento Imobiliário	Papel: CRIs	Singulare CTVM	0,0263	R$21,58	R$13,54 M	R$514,95	10/03/2014	Títulos e Valores Mobiliários Gestão Ativa	26.291	0,00376	0,01662	0,01662	5
+RELG11	Rec Logística	Tijolo: Galpões	BRL Trust DTVM	0,011000000000000001	R$0,80	R$127,66 M	R$95,65	17/05/2020	Híbrido Gestão Ativa	1.334.562	0,00105	0,00803	0,00803	10
+RFOF11	RB Capital I Fundo de Fundos	Papel: Fundo de Fundos	BRL Trust DTVM	0,0097	R$0,63	R$90,31 M	R$83,76	30/09/2019	Títulos e Valores Mobiliários Gestão Ativa	1.078.164	0,00036	0,00762	0,00762	10
+RMAI11	Reag Multi Ativos Imobiliários	Tijolo: Escritórios	Reag DTVM	0,0078000000000000005	R$0,26	R$270,10 M	R$110,52	27/03/2013	Renda Gestão Ativa	2.443.800	0,00286	0,01390	0,01390	5
+RNDP11	BB Renda de Papéis Imobiliários	Papel: CRIs	Votorantim Asset Management	0,0075	R$4,65	R$75,03 M	R$698,04	17/04/2012	Títulos e Valores Mobiliários Gestão Ativa	107.481	0,00143	0,00546	0,00546	9
+RNGO11	Rio Negro	Tijolo: Escritórios	Rio Bravo Investimentos	0,0069	R$0,35	R$234,09 M	R$87,48	09/05/2012	Renda Gestão Passiva	2.676.000	0,00025	0,00597	0,00597	10
+RRCI11	RB Capital Recebíveis Imobiliários	Papel: CRIs	BRL Trust DTVM	0,0116	R$0,89	R$46,94 M	R$97,43	10/07/2013	Renda Gestão Ativa	481.757	0,00165	0,00838	0,00838	10
+RSPD11	RB Capital Desenvolvimento Residencial III	Tijolo: Desenvolvimento	Oliveira Trust	0,0092	R$11,10	R$168,37 M	R$1.130,10	14/12/2017	Desenvolvimento para Venda Gestão Ativa	148.986	-1.0	-1.0	0	0
+RVBI11	VBI REITS FOF	Papel: Fundo de Fundos	BRL Trust DTVM	0,0102	R$0,75	R$127,25 M	R$88,37	26/11/2019	Renda Gestão Ativa	1.440.000	0,00070	0,00811	0,00811	10
+RZAK11	Riza Akin	Papel: CRIs	BTG Pactual	0,0121	R$1,00	R$286,47 M	R$95,44	02/09/2020	Títulos e Valores Mobiliários Gestão Ativa	3.001.734	0,00332	0,00779	0,00779	9
+RZTR11	Riza Terrax	Indefinido	Brasil Plural S.A. Banco Múltiplo	0,0102	R$0,95	R$1,09 B	R$98,44	28/08/2020	Renda Gestão Ativa	11.048.018	0,00145	0,00805	0,00805	10
+SADI11	Santander Papeis Imobiliários CDI	Papel: CRIs	Santander Caceis Brasil DTVM	0,0062	R$0,51	R$319,47 M	R$100,46	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	3.180.207	0,00142	0,00385	0,00385	10
+SAIC11B	Sia Corporate	Tijolo: Escritórios	BRB DTVM	0,0184	R$0,66	R$77,46 M	R$54,18	18/03/2014	Desenvolvimento para Renda Gestão Passiva	1.429.740	-1.0	-1.0	0	0
+SARE11	Santander Renda de Alugueis	Indefinido	Santander Caceis Brasil DTVM	0,0096	R$0,60	R$918,86 M	R$99,51	27/09/0209	Renda Gestão Ativa	9.234.329	0,00067	0,00670	0,00670	10
+SCPF11	SCP	Tijolo: Shoppings	BR-CAPITAL	0,0015	R$0,01	R$53,39 M	R$12,71	03/01/1997	Renda Gestão Ativa	4.200.000	0,00170	0,00215	0,00215	10
+SDIL11	SDI Logística Rio	Tijolo: Galpões	Rio Bravo Investimentos	0,0092	R$0,76	R$627,74 M	R$98,16	23/08/2012	Renda Gestão Ativa	6.395.050	0,00099	0,00665	0,00665	10
+SEQR11	Sequoia III Renda Imobiliária	Indefinido	Vórtx DTVM LTDA	0,0086	R$0,63	R$168,00 M	R$104,44	31/12/2019	Renda Gestão Ativa	1.608.552	0,00058	0,00784	0,00784	7
+SFND11	São Fernando	Tijolo: Escritórios	Rio Bravo Investimentos	0,0	R$5,51	R$16,51 M	R$16,82	19/06/2008	Renda Gestão Passiva	981.472	-1.0	-1.0	0	0
+SHDP11B	Shopping Parque Dom Pedro	Tijolo: Shoppings	BTG Pactual	0,0058	R$6,96	R$2,15 B	R$1.487,00	16/12/2004	Renda Gestão Passiva	1.446.687	-1.0	-1.0	0	0
+SHOP11	Multi Shoppings	Tijolo: Shoppings	Banco Modal S.A.	0,0	R$0,00	R$84,52 M	R$57,06	16/07/2015	Renda Gestão Ativa	1.481.266	-1.0	-1.0	0	0
+SHPH11	Shopping Patio Higienopolis	Tijolo: Shoppings	Rio Bravo Investimentos	0,0049	R$4,07	R$502,17 M	R$824,64	07/12/1999	Renda Gestão Passiva	608.950	0,00121	0,00361	0,00361	10
+SJAU11	SJ AU Logística	Tijolo: Galpões	Vórtx DTVM LTDA	0,0	R$0,00	R$791,30 M	R$99,76	12/06/2017	Renda Gestão Passiva	7.932.248	-1.0	-1.0	0	0
+SNCI11	Suno Recebíveis	Papel: CRIs	BTG Pactual	0,0115	R$1,15	R$122,75 M	R$100,93	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	1.216.227	0,00195	0,00955	0,00955	2
+SNFF11	Suno Fundo de Fundos	Papel: Fundo de Fundos	BTG Pactual	0,0073	R$0,62	R$225,90 M	R$90,36	--/--/--	Títulos e Valores Mobiliários Gestão Ativa	2.500.000	0,00221	0,00545	0,00545	6
+SOLR11	Solarium	Tijolo: Outros	Banco Genial	0,0069	R$7,95	R$63,36 M	R$1.007,63	07/10/2016	Híbrido Gestão Ativa	62.883	-1.0	-1.0	0	0
+SPAF11	SPA Fundo de Investimento Imobiliário	Tijolo: Shoppings	Brasil Plural S.A. Banco Múltiplo	0,0	R$2,19	R$11,33 M	R$1.005,67	18/06/2016	Desenvolvimento para Renda Gestão Ativa	11.270	-1.0	-1.0	0	0
+SPTW11	SP Downtown	Tijolo: Escritórios	Genial Investimentos Corretora de Valores	0,0241	R$1,13	R$89,20 M	R$49,61	18/04/2013	Renda Gestão Passiva	1.798.000	0,01835	0,02035	0,02035	10
+STRX11	STARX FII	Tijolo: Desenvolvimento	Oliveira Trust	0,0	R$0,67	R$295,30 M	R$183,01	22/09/2010	Híbrido Gestão Passiva	1.613.559	-1.0	-1.0	0	0
+TBOF11	TB Office	Tijolo: Escritórios	BTG Pactual	0,0008	R$0,09	R$960,19 K	R$0,10	28/12/2012	Renda Gestão Passiva	10.050.000	0,00032	0,00331	0,00331	7
+TCIN11	G5 Cidade Nova	Tijolo: Escritórios	Singulare CTVM	0,0	R$0,00	R$117,49 M	R$141,35	30/10/2021	Renda Gestão Ativa	831.197	-1.0	-1.0	0	0
+TCPF11	Treecorp Real Estate	Indefinido	BR-CAPITAL	0,0	R$3,19	R$32,37 M	R$108,86	03/03/2017	Renda Gestão Ativa	297.327	-1.0	-1.0	0	0
+TEPP11	Tellus Properties	Tijolo: Escritórios	BRL Trust DTVM	0,0075	R$0,48	R$397,34 M	R$94,11	12/12/2016	Renda Gestão Ativa	4.221.967	0,00062	0,00565	0,00565	10
+TGAR11	TG Ativo Real	Tijolo: Desenvolvimento	Vórtx DTVM LTDA	0,0105	R$1,20	R$1,46 B	R$129,24	09/12/2016	Híbrido Gestão Ativa	11.309.572	0,00054	0,00867	0,00867	10
+TORD11	Tordesilhas EI FII	Indefinido	Vórtx DTVM LTDA	0,008199999999999999	R$0,08	R$452,74 M	R$12,92	28/08/2019	Híbrido Gestão Ativa	35.051.355	0,00392	0,00960	0,00960	10
+TORM13	Tourmalet I	Tijolo: Desenvolvimento	Vórtx DTVM LTDA	0,0	R$10,56	R$69,47 M	R$36,94	05/10/2016	Desenvolvimento para Renda Gestão Ativa	1.880.850	-1.0	-1.0	0	0
+TOUR11	Tourmalet II	Tijolo: Desenvolvimento	Vórtx DTVM LTDA	6,3313999999999995	R$76,61	R$64,71 M	R$79,89	26/07/2018	Desenvolvimento para Renda Gestão Ativa	810.000	0,17071	0,12719	0,12719	7
+TRNT11	Torre Norte	Tijolo: Escritórios	BTG Pactual	0,0034000000000000002	R$0,35	R$814,43 M	R$206,94	10/08/2001	Renda Gestão Passiva	3.935.562	0,00113	0,00284	0,00284	9
+TRXB11	TRX Real Estate II	Tijolo: Desenvolvimento	BRL Trust DTVM	0,0070999999999999995	R$0,85	R$255,89 M	R$102,30	06/03/2020	Títulos e Valores Mobiliários Gestão Passiva	2.501.419	0,00024	0,00676	0,00676	7
+TRXF11	TRX Real Estate	Tijolo: Outros	BRL Trust DTVM	0,008	R$0,77	R$574,76 M	R$101,88	01/09/2017	Renda Gestão Ativa	5.641.522	0,00038	0,00678	0,00678	10
+TSER11	Tishman Speyer Renda Corporativa	Tijolo: Escritórios	BRL Trust DTVM	0,0091	R$0,93	R$116,37 M	R$96,57	26/10/2020	Renda Gestão Ativa	1.205.000	0,00075	0,00835	0,00835	2
+TSNC11	Transinc	Tijolo: Outros	BTG Pactual	0,0	R$37,56	R$100,04 M	R$5.523,36	14/08/2013	Renda Gestão Ativa	18.113	-1.0	-1.0	0	0
+URPR11	Urca Prime Renda	Papel: CRIs	Vórtx DTVM LTDA	0,013300000000000001	R$1,37	R$345,78 M	R$94,66	03/12/2019	Híbrido Gestão Ativa	3.652.937	0,00361	0,01571	0,01571	10
+VCJR11	Vectis Juros Real	Papel: CRIs	INTRAG DTVM	0,0123	R$1,19	R$1,09 B	R$93,94	29/07/2019	Títulos e Valores Mobiliários Gestão Ativa	11.603.880	0,00240	0,00880	0,00880	10
+VCRR11	Vectis Renda Residencial	Tijolo: Outros	BRL Trust DTVM	0,009899999999999999	R$0,67	R$196,09 M	R$98,05	15/01/2021	Renda Gestão Ativa	2.000.000	0,00074	0,00773	0,00773	3
+VERE11	Vereda	Tijolo: Galpões	Votorantim Asset Management	0,0085	R$2,18	R$174,06 M	R$316,42	31/05/2007	Híbrido Gestão Ativa	550.084	-1.0	-1.0	0	0
+VGHF11	Valora Hedge Fund	Papel: Híbrido	Banco Daycoval S.A.	0,0152	R$0,15	R$151,97 M	R$6,80	28/09/2020	Híbrido Gestão Ativa	22.347.516	0,00255	0,01135	0,01135	8
+VGIP11	Valora CRI Índice de Preço	Papel: CRIs	BTG Pactual	0,013000000000000001	R$1,25	R$703,68 M	R$95,72	03/01/2020	Títulos e Valores Mobiliários Gestão Ativa	7.351.274	0,00158	0,01027	0,01027	10
+VGIR11	Valora RE III	Papel: CRIs	BTG Pactual	0,0072	R$0,68	R$437,72 M	R$97,13	13/03/2018	Títulos e Valores Mobiliários Gestão Ativa	4.506.414	0,00084	0,00608	0,00608	10
+VIFI11	Vinci Instrumentos Financeiros	Papel: Fundo de Fundos	BRL Trust DTVM	0,0089	R$0,63	R$252,53 M	R$89,79	19/10/2018	Títulos e Valores Mobiliários Gestão Ativa	2.812.340	0,00073	0,00728	0,00728	10
+VILG11	Vinci Logística	Tijolo: Galpões	BRL Trust DTVM	0,0073	R$0,64	R$1,71 B	R$113,80	24/05/2016	Renda Gestão Ativa	14.997.396	0,00076	0,00519	0,00519	10
+VINO11	Vinci Offices	Tijolo: Escritórios	BRL Trust DTVM	0,01	R$0,54	R$738,53 M	R$58,27	10/07/2019	Renda Gestão Ativa	12.673.868	0,00118	0,00813	0,00813	10
+VISC11	Vinci Shopping Centers	Tijolo: Shoppings	BRL Trust DTVM	0,006500000000000001	R$0,62	R$2,06 B	R$116,50	07/06/2013	Renda Gestão Ativa	17.696.234	0,00144	0,00426	0,00426	10
+VIUR11	Vinci Imóveis Urbanos	Tijolo: Outros	BRL Trust DTVM	0,009300000000000001	R$0,67	R$257,34 M	R$95,50	29/01/2021	Renda Gestão Ativa	2.694.622	0,00045	0,00747	0,00747	6
+VLJS11	Vector Queluz Lajes Corporativas	Tijolo: Escritórios	Planner Corretora de Valores	0,0	R$18,24	R$45,03 M	R$763,44	16/06/2011	Títulos e Valores Mobiliários Gestão Passiva	58.977	-1.0	-1.0	0	0
+VLOL11	Vila Olímpia Corporate	Tijolo: Escritórios	Oliveira Trust	0,0052	R$0,50	R$173,26 M	R$97,07	26/03/2012	Renda Gestão Passiva	1.784.828	0,00038	0,00443	0,00443	10
+VOTS11	Votorantim Securities Master	Papel: CRIs	Votorantim Asset Management	0,0074	R$0,64	R$80,54 M	R$97,28	13/07/2018	Títulos e Valores Mobiliários Gestão Ativa	827.913	0,00169	0,00627	0,00627	7
+VPSI11	Polo Shopping Indaiatuba	Tijolo: Shoppings	Votorantim Asset Management	0,0	R$0,11	R$148,11 M	R$18,35	12/01/2012	Renda Gestão Passiva	8.071.897	-1.0	-1.0	0	0
+VRTA11	Fator Verita	Papel: CRIs	Banco Fator	0,011899999999999999	R$1,20	R$951,61 M	R$95,16	02/03/2010	Títulos e Valores Mobiliários Gestão Ativa	10.000.000	0,00108	0,00900	0,00900	10
+VSEC11	Votorantim Securities	Papel: CRIs	Votorantim Asset Management	0,004	R$0,30	R$6,23 M	R$99,37	14/01/2010	Títulos e Valores Mobiliários Gestão Ativa	62.735	0,00805	0,00588	0,00588	5
+VSHO11	Votorantim Shopping	Tijolo: Shoppings	Votorantim Asset Management	0,0073	R$0,53	R$212,68 M	R$101,33	17/07/2018	Renda Gestão Ativa	2.098.800	0,00310	0,00479	0,00479	10
+VSLH11	Versalhes Recebíveis Imobiliários	Papel: CRIs	Vórtx DTVM LTDA	0,0151	R$0,15	R$257,05 M	R$9,74	04/12/2020	Híbrido Gestão Ativa	26.400.000	0,00325	0,01346	0,01346	8
+VTLT11	Votorantim Logística	Tijolo: Galpões	Votorantim Asset Management	0,0083	R$0,75	R$216,37 M	R$102,30	16/11/2017	Renda Gestão Ativa	2.115.000	0,00049	0,00710	0,00710	10
+VVPR11	V2 Properties	Tijolo: Escritórios	BTG Pactual	0,0077	R$0,73	R$238,18 M	R$103,30	--/--/--	Renda Gestão Ativa	2.305.771	0,00077	0,00688	0,00688	10
+VXXV11	VX XVI	Tijolo: Outros	Vórtx DTVM LTDA	0,0127	R$10,76	R$117,63 M	R$665,42	27/06/2019	Renda Gestão Ativa	176.778	-1.0	-1.0	0	0
+WPLZ11	Shopping West Plaza	Tijolo: Shoppings	Hedge Investments DTVM LTDA	0,004	R$0,25	R$105,82 M	R$103,67	10/01/2008	Renda Gestão Passiva	1.020.747	0,00273	0,00344	0,00344	10
+WTSP11B	Ourinvest RE I	Tijolo: Híbrido	Banco Ourinvest S.A.	0,008199999999999999	R$0,40	R$78,99 M	R$79,58	13/10/2017	Renda Gestão Ativa	992.565	0,00204	0,00509	0,00509	10
+XPCI11	XP Crédito Imobiliário	Papel: CRIs	Vórtx DTVM LTDA	0,011399999999999999	R$1,00	R$622,86 M	R$94,85	31/07/2019	Títulos e Valores Mobiliários Gestão Ativa	6.567.021	0,00067	0,00940	0,00940	10
+XPCM11	XP Corporate Macaé	Tijolo: Escritórios	Rio Bravo Investimentos	0,010700000000000001	R$0,21	R$168,50 M	R$69,78	08/01/2013	Renda Gestão Passiva	2.414.570	0,00159	0,00837	0,00837	10
+XPHT11	XP Hotéis	Tijolo: Hotéis	Genial Investimentos Corretora de Valores Mobiliários S.A.	0,0037	R$0,34	R$330,30 M	R$86,82	19/04/2016	Renda Gestão Ativa	3.804.642	0,00070	0,00412	0,00412	10
+XPIN11	XP Industrial	Tijolo: Galpões	Vórtx DTVM LTDA	0,0079	R$0,63	R$732,51 M	R$111,21	21/05/2018	Renda Gestão Ativa	6.586.568	0,00061	0,00622	0,00622	10
+XPLG11	XP Log	Tijolo: Galpões	Vórtx DTVM LTDA	0,0072	R$0,64	R$2,97 B	R$109,53	29/05/2018	Híbrido Gestão Ativa	27.101.061	0,00053	0,00552	0,00552	10
+XPML11	XP Malls FII	Tijolo: Shoppings	BTG Pactual	0,005699999999999999	R$0,50	R$1,95 B	R$104,21	04/10/2017	Renda Gestão Ativa	18.681.577	0,00150	0,00409	0,00409	10
+XPPR11	XP PROPERTIES	Tijolo: Escritórios	Vórtx DTVM LTDA	0,0096	R$0,55	R$610,74 M	R$83,48	20/09/2019	Renda Gestão Ativa	7.316.171	0,00073	0,00743	0,00743	10
+XPSF11	XP Selection Fundo de Fundos	Papel: Fundo de Fundos	XP Investimentos	0,0101	R$0,70	R$382,27 M	R$88,28	02/07/2019	Títulos e Valores Mobiliários Gestão Ativa	4.330.214	0,00050	0,00811	0,00811	10
+XTED11	TRX Edifícios Corporativos	Tijolo: Escritórios	BTG Pactual	0,0513	R$0,32	R$26,14 M	R$13,50	19/09/2012	Títulos e Valores Mobiliários Gestão Ativa	1.936.237	0,00133	0,01406	0,01406	7
+YUFI11	Yuca	Tijolo: Outros	BRL Trust DTVM	0,0	R$0,39	R$37,59 M	R$95,14	17/02/2020	Renda Gestão Ativa	395.150	-1.0	-1.0	0	0

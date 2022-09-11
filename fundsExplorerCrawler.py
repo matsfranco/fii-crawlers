@@ -153,7 +153,14 @@ class Plataforma :
         print('>> Plataforma: Listando Fundos Imobiliários disponíveis em '+self.urlBase+'...')
         for item in tabelaFiis:
             url = item.find_element(By.TAG_NAME,'a')
-            if(url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/mtof11') : print('mtof11')
+            if(url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/mtof11' or 
+            url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/ancr11b' or 
+            url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/cxtl11' or 
+            url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/domc11' or 
+            url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/edfo11b' or
+            url.get_attribute('href') == 'https://www.fundsexplorer.com.br/funds/finf11'
+            ) : 
+                print('EXCEPTION')
             else : self.urls.append(url.get_attribute('href'))
         self.quantidadeFundos = len(self.urls)
         print('>> Plataforma: Foram encontrados '+str(self.quantidadeFundos)+' Fundos Imobiliários') 
@@ -209,14 +216,14 @@ class Crawler:
         for dado in dados :
             #print(dado.nome)
             try: 
-                if not dado.atributo : 
+                if not dado.atributo :
                     detalhe = FiiDetalhe(dado.nome,self.wait.until(EC.presence_of_element_located((dado.metodo,dado.path))).text)
                     fii.detalhes.append(detalhe)
                 else :
                     tag = self.wait.until(EC.presence_of_element_located((dado.metodo,dado.path)))
                     detalhe = FiiDetalhe(dado.nome,tag.get_attribute(dado.atributo))
                     fii.detalhes.append(detalhe)
-            except NoSuchElementException:
+            except (NoSuchElementException, TimeoutException) :
                 continue
             continue
         # Coleta Históricos

@@ -155,10 +155,11 @@ class Crawler:
         i = 0
         for url in self.plataforma.urls :
             i+=1
-            print(str(i)+' de '+str(self.plataforma.quantidadeFundos)+'. Tempo restante estimado: '+str((self.plataforma.quantidadeFundos-i)*self.duracaoMedia)+' mins.')
-            self.driver.get(url)
-            time.sleep(0.3)
-            self.coletarDados()        
+            if(i>205):
+                print(str(i)+' de '+str(self.plataforma.quantidadeFundos)+'. Tempo restante estimado: '+str((self.plataforma.quantidadeFundos-i)*self.duracaoMedia)+' mins.')
+                self.driver.get(url)
+                time.sleep(0.5)
+                self.coletarDados()        
 
     def coletarDados(self) :
         dados = self.plataforma.dados

@@ -41,17 +41,21 @@ class Fii :
         dividendYields = []
         if(self.earningHistory) :
             for item in self.earningHistory :
-                dividendYields.append(item.dividendYield)
+                dividendYields.append(item.dividendYield) 
             self.dyStandardDeviation = '{0:.5f}'.format(np.std(dividendYields)/100).replace('.',',') 
             self.dyMean = '{0:.5f}'.format(np.mean(dividendYields)/100).replace('.',',')
             self.dyMedian = '{0:.5f}'.format(np.mean(dividendYields)/100).replace('.',',')
+            #print(str(self.dyStandardDeviation))
+            #print(str(self.dyMean))
+            #print(str(self.dyMedian))
+
 
     def addEarningHistoryEntry(self, earningHistoryItem) :
         self.sampleSize += 1 
         self.earningHistory.append(earningHistoryItem)
 
     def getEarningHistory(self):
-        earnings_datatable = driver.find_elements(By.XPATH,'/html/body/div[4]/section[4]/div/div/div[2]/div/div/table/tbody/tr')
+        earnings_datatable = driver.find_elements(By.XPATH,'//*[@id="last-revenues--table"]/tbody/tr')
         wait = WebDriverWait(driver, 10)
         i = 0
         try:
@@ -77,6 +81,13 @@ class EarningHistory:
         self.dividendYield = dividendYield
         self.earning = earning
 
+    def printEntry(self) :
+        print('date: '+self.date)
+        print('paymentDate: '+self.paymentDate)
+        print('baseQuote: '+self.baseQuote)
+        print('dividendYield: '+str(self.dividendYield))
+        print('earning: '+str(self.earning))
+
 #url = sys.argv[1]
 url = 'https://fiis.com.br/lista-de-fundos-imobiliarios/'
 #driver=webdriver.Firefox()
@@ -92,12 +103,14 @@ lastheight = 0
 wait = WebDriverWait(driver, 10)
 
 # listagem de vídeos
-html_list = driver.find_elements(By.XPATH,'//*[@id="items-wrapper"]/div')
+html_list = driver.find_elements(By.XPATH,'//*[@id="items-wrapper"]/div/a')
+print(html_list)
 urls = []
+time.sleep(1)
 print('Listando Fundos Imobiliários disponíveis em '+url+'...')
 for item in html_list:
-    url = item.find_element(By.TAG_NAME,'a')
-    urls.append(url.get_attribute('href'))
+    #url = item.find_element(By.TAG_NAME,'a')
+    urls.append(item.get_attribute('href'))
 numberOfFunds = len(urls)
 print('Foram encontrados '+str(numberOfFunds)+' FIIs')
 print('Iniciando coleta de dados. Estimativa de duração: '+str(0.03*numberOfFunds)+' mins')
@@ -108,25 +121,27 @@ outputFile = open('fiis'+'-'+dt+'.txt', 'a+',encoding='utf-8')
 outputFile.write('ticker\tname\tfundType\tmanager\tlastDividendYield\tlastEarning\tequity\tequityPerShare\tregistrationDate\tmanagementType\tshareQuantity\tstandardDeviation\tmean\tmedian\tsampleSize\n')
 for url in urls :
     i+=1
-    print(str(i)+' de '+str(numberOfFunds)+'. Tempo restante estimado: '+str((numberOfFunds-i)*0.03)+' mins.')
-    driver.get(url)
-    time.sleep(0.3)
-    ticker = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="fund-ticker"]'))).text
-    name = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="fund-name"]'))).text
-    fundType = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[2]/span[2]'))).text
-    manager = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--admin"]/div[1]/div[2]/span[2]'))).text
-    lastDividendYield = float(wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[1]/h3[1]'))).text.replace('%','').replace(',','.'))/100
-    lastEarning = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[2]/h3[1]'))).text
-    equity = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[3]/h3[1]'))).text
-    equityPerShare = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[4]/h3[1]'))).text
-    registrationDate = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[4]/span[2]'))).text
-    managementType = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[3]/span[2]'))).text
-    shareQuantity = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[2]/div[1]/span[2]'))).text
-    newFii = Fii(ticker, name, fundType, manager, lastDividendYield, lastEarning, equity, equityPerShare,registrationDate,managementType, shareQuantity)
-    newFii.getEarningHistory()
-    newFii.calculateMeanMedianAndStandardDeviation()
+    if(i>0) :
+        print(str(i)+' de '+str(numberOfFunds)+'. Tempo restante estimado: '+str((numberOfFunds-i)*0.03)+' mins.')
+        print(url)
+        driver.get(url)
+        time.sleep(0.3)
+        ticker = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="fund-ticker"]'))).text
+        name = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="fund-name"]'))).text
+        fundType = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[2]/span[2]'))).text
+        manager = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--admin"]/div[1]/div[2]/span[2]'))).text
+        lastDividendYield = float(wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[1]/h3[1]'))).text.replace('%','').replace(',','.'))/100
+        lastEarning = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[2]/h3[1]'))).text
+        equity = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[3]/h3[1]'))).text
+        equityPerShare = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--indexes"]/td[4]/h3[1]'))).text
+        registrationDate = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[4]/span[2]'))).text
+        managementType = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[1]/div[3]/span[2]'))).text
+        shareQuantity = wait.until(EC.presence_of_element_located((By.XPATH,'//*[@id="informations--basic"]/div[2]/div[1]/span[2]'))).text
+        newFii = Fii(ticker, name, fundType, manager, lastDividendYield, lastEarning, equity, equityPerShare,registrationDate,managementType, shareQuantity)
+        newFii.getEarningHistory()
+        newFii.calculateMeanMedianAndStandardDeviation()
     
-    fiis.append(newFii)
-    outputFile.write(newFii.printData())
+        fiis.append(newFii)
+        outputFile.write(newFii.printData())
 
 outputFile.close()
